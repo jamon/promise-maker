@@ -2,7 +2,7 @@
   "name": "promise-maker",
   "version": "1.0.0",
   "description": "turn callbacks into promises in a simple and flexible way",
-  "main": "promise-maker.js",
+  "main": "dist/promise-maker.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "node node_modules/babel-cli/bin/babel.js src/promise-maker.js -o dist/promise-maker.js"
